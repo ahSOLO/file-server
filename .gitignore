@@ -1,7 +1,3 @@
-testfile.txt
-testphoto.jpg
-testvideofile.mp4
-clientFile.txt
-clientFile
-clientFile.jpg
-clientFile.mp4
+*.txt
+*.mp4
+*.jpg
